@@ -3477,8 +3477,8 @@
     "id": "5016",
     "type": "album",
     "title": "PTSD",
-    "releaseDate": "23/may/2025",
-    "cover": "pandemonium-reloaded.png",
+    "releaseDate": "28/mar/2025",
+    "cover": "pandemonium.jpg",
     "streamingLinks": {
       "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_n8JOCYiJQLPnpIwLh3n1WH51BkA_ElBkE",
       "spotify": null,
@@ -3493,8 +3493,8 @@
     "id": "5017",
     "type": "album",
     "title": "VICTOIRE",
-    "releaseDate": "23/may/2025",
-    "cover": "pandemonium-reloaded.png",
+    "releaseDate": "28/mar/2025",
+    "cover": "pandemonium.jpg",
     "streamingLinks": {
       "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_n8JOCYiJQLPnpIwLh3n1WH51BkA_ElBkE",
       "spotify": null,
@@ -3509,8 +3509,8 @@
     "id": "5018",
     "type": "album",
     "title": "DEMON",
-    "releaseDate": "23/may/2025",
-    "cover": "pandemonium-reloaded.png",
+    "releaseDate": "28/mar/2025",
+    "cover": "pandemonium.jpg",
     "streamingLinks": {
       "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_n8JOCYiJQLPnpIwLh3n1WH51BkA_ElBkE",
       "spotify": null,
@@ -3542,7 +3542,7 @@
     "type": "single-hors-album",
     "title": "PANDEMONIUM SENSATION",
     "releaseDate": "28/august/2025",
-    "cover": "pandemonium-reloaded.png",
+    "githubCover": "PANDEMONIUM SENSATION_JJJbxQfvUj0.jpg",
     "streamingLinks": {
       "youtube": "https://www.youtube.com/watch?v=ZLbhdLCE4NQ",
       "spotify": null,
@@ -3558,7 +3558,7 @@
     "type": "single-hors-album",
     "title": "PTSD/Sport",
     "releaseDate": "28/august/2025",
-    "cover": "pandemonium-reloaded.png",
+    "githubCover": "PTSD-SPORT EXCLUS_ZLbhdLCE4NQ.jpg",
     "streamingLinks": {
       "youtube": "https://www.youtube.com/watch?v=ZLbhdLCE4NQ",
       "spotify": null,
@@ -3574,7 +3574,7 @@
     "type": "single-hors-album",
     "title": "MAMACITA",
     "releaseDate": "28/august/2025",
-    "cover": "pandemonium-reloaded.png",
+    "githubCover": "MAMACITA_y0QKAmyXbMw.jpg",
     "streamingLinks": {
       "youtube": "https://www.youtube.com/watch?v=ZLbhdLCE4NQ",
       "spotify": null,
@@ -3590,7 +3590,7 @@
     "type": "single-hors-album",
     "title": "BLAUWBURGWAL",
     "releaseDate": "28/august/2025",
-    "cover": "pandemonium-reloaded.png",
+    "githubCover": "BLAUWBURGWAL_ETuTWTtkjc0.jpg",
     "streamingLinks": {
       "youtube": "https://www.youtube.com/watch?v=ZLbhdLCE4NQ",
       "spotify": null,
@@ -3606,7 +3606,7 @@
     "type": "single-hors-album",
     "title": "DIMENSION PARALLÈLE",
     "releaseDate": "28/august/2025",
-    "cover": "pandemonium-reloaded.png",
+    "githubCover": "DIMENSION PARALLÈLE_zxYeLfKmKSw.jpg",
     "streamingLinks": {
       "youtube": "https://www.youtube.com/watch?v=ZLbhdLCE4NQ",
       "spotify": null,
@@ -3619,6 +3619,7 @@
   }
 
 ]
+
 
 
 
