@@ -3489,4 +3489,21 @@
     },
     "youtube-cover": "no"
   }
+  {
+    "id": "5017",
+    "type": "single-hors-album",
+    "title": "PTSD",
+    "releaseDate": "28/august/2025",
+    "cover": "pandemonium-reloaded.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=ZLbhdLCE4NQ",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  }
+
 ]
