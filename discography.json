@@ -3476,6 +3476,54 @@
   {
     "id": "5016",
     "type": "album",
+    "title": "PTSD",
+    "releaseDate": "23/may/2025",
+    "cover": "pandemonium-reloaded.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_n8JOCYiJQLPnpIwLh3n1WH51BkA_ElBkE",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+    {
+    "id": "5017",
+    "type": "album",
+    "title": "VICTOIRE",
+    "releaseDate": "23/may/2025",
+    "cover": "pandemonium-reloaded.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_n8JOCYiJQLPnpIwLh3n1WH51BkA_ElBkE",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+    {
+    "id": "5018",
+    "type": "album",
+    "title": "DEMON",
+    "releaseDate": "23/may/2025",
+    "cover": "pandemonium-reloaded.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_n8JOCYiJQLPnpIwLh3n1WH51BkA_ElBkE",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+    {
+    "id": "5019",
+    "type": "album",
     "title": "Pandemonium RELOADED",
     "releaseDate": "23/may/2025",
     "cover": "pandemonium-reloaded.png",
@@ -3490,9 +3538,73 @@
     "youtube-cover": "no"
   },
   {
-    "id": "5017",
+    "id": "5020",
     "type": "single-hors-album",
-    "title": "PTSD",
+    "title": "PANDEMONIUM SENSATION",
+    "releaseDate": "28/august/2025",
+    "cover": "pandemonium-reloaded.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=ZLbhdLCE4NQ",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "5021",
+    "type": "single-hors-album",
+    "title": "PTSD/Sport",
+    "releaseDate": "28/august/2025",
+    "cover": "pandemonium-reloaded.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=ZLbhdLCE4NQ",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "5022",
+    "type": "single-hors-album",
+    "title": "MAMACITA",
+    "releaseDate": "28/august/2025",
+    "cover": "pandemonium-reloaded.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=ZLbhdLCE4NQ",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "5023",
+    "type": "single-hors-album",
+    "title": "BLAUWBURGWAL",
+    "releaseDate": "28/august/2025",
+    "cover": "pandemonium-reloaded.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=ZLbhdLCE4NQ",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "5024",
+    "type": "single-hors-album",
+    "title": "DIMENSION PARALLÈLE",
     "releaseDate": "28/august/2025",
     "cover": "pandemonium-reloaded.png",
     "streamingLinks": {
@@ -3507,4 +3619,5 @@
   }
 
 ]
+
 
