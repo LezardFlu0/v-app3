@@ -3539,12 +3539,12 @@
   },
   {
     "id": "5020",
-    "type": "single-hors-album",
+    "type": "freestyle",
     "title": "PANDEMONIUM SENSATION",
     "releaseDate": "31/jul/2025",
     "githubCover": "PANDEMONIUM SENSATION_JJJbxQfvUj0.jpg",
     "streamingLinks": {
-      "youtube": "https://www.youtube.com/watch?v=ZLbhdLCE4NQ",
+      "youtube": "https://www.youtube.com/watch?v=JJJbxQfvUj0",
       "spotify": null,
       "youtubeMusic": null,
       "appleMusic": null,
@@ -3576,7 +3576,7 @@
     "releaseDate": "9/nov/2025",
     "githubCover": "MAMACITA_y0QKAmyXbMw.jpg",
     "streamingLinks": {
-      "youtube": "https://www.youtube.com/watch?v=ZLbhdLCE4NQ",
+      "youtube": "https://www.youtube.com/watch?v=y0QKAmyXbMw",
       "spotify": null,
       "youtubeMusic": null,
       "appleMusic": null,
@@ -3592,7 +3592,7 @@
     "releaseDate": "11/nov/2025",
     "githubCover": "BLAUWBURGWAL_ETuTWTtkjc0.jpg",
     "streamingLinks": {
-      "youtube": "https://www.youtube.com/watch?v=ZLbhdLCE4NQ",
+      "youtube": "https://www.youtube.com/watch?v=ETuTWTtkjc0",
       "spotify": null,
       "youtubeMusic": null,
       "appleMusic": null,
@@ -3608,7 +3608,7 @@
     "releaseDate": "14/nov/2025",
     "githubCover": "DIMENSION PARALLÈLE_zxYeLfKmKSw.jpg",
     "streamingLinks": {
-      "youtube": "https://www.youtube.com/watch?v=ZLbhdLCE4NQ",
+      "youtube": "https://www.youtube.com/watch?v=zxYeLfKmKSw",
       "spotify": null,
       "youtubeMusic": null,
       "appleMusic": null,
@@ -3619,6 +3619,7 @@
   }
 
 ]
+
 
 
 
