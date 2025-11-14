@@ -1,0 +1,3492 @@
+[
+  {
+    "id": "1001",
+    "type": "single-hors-album",
+    "title": "Vie",
+    "releaseDate": "12/dec/2022",
+    "cover": "vie.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=abQvojHfrcc",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "1002",
+    "type": "single-hors-album",
+    "title": "Semi-Auto",
+    "releaseDate": "08/sep/2022",
+    "cover": "semi-auto.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=0j2HUnO9DMQ",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "1003",
+    "type": "single-hors-album",
+    "title": "Footballeur",
+    "releaseDate": "03/jun/2021",
+    "cover": "footballeur.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=J4YkP30PQXU",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "1004",
+    "type": "single-hors-album",
+    "title": "War Remix",
+    "releaseDate": "06/jan/2020",
+    "cover": "war-remix.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=R-yWIIRnQfU",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "1005",
+    "type": "single-hors-album",
+    "title": "Inanition",
+    "releaseDate": "13/may/2017",
+    "cover": "inanition.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=GfSJOBT9CXE",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "1006",
+    "type": "single-hors-album",
+    "title": "Le Chant du Kraken",
+    "releaseDate": "20/mar/2017",
+    "cover": "le-chant-du-kraken.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=hINn06zpiqU",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "1007",
+    "type": "single-hors-album",
+    "title": "La Réussite",
+    "releaseDate": "26/nov/2016",
+    "cover": "la-reussite.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=ZkjlDasg0iA",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "1008",
+    "type": "single-hors-album",
+    "title": "T'as bien mal",
+    "releaseDate": "19/aug/2016",
+    "cover": "tas-bien-mal.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=KHuO8Qo8_KM",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "1009",
+    "type": "single-hors-album",
+    "title": "Envie",
+    "releaseDate": "21/jul/2016",
+    "cover": "envie.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=lA0FgzTvSUc",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "1010",
+    "type": "single-hors-album",
+    "title": "Le Mignon",
+    "releaseDate": "13/jun/2016",
+    "cover": "le-mignon.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=WkuKR9eIIbI",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "1011",
+    "type": "single-hors-album",
+    "title": "OSTUD",
+    "releaseDate": "30/dec/2015",
+    "cover": "ostud.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=jI9vWKICqRw",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "1012",
+    "type": "single-hors-album",
+    "title": "TAMERE 2012",
+    "releaseDate": "02/dec/2015",
+    "cover": "tamere-2012.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=WW6sRKtpy70",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "1013",
+    "type": "single-hors-album",
+    "title": "Compas",
+    "releaseDate": "13/nov/2015",
+    "cover": "compas.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=2jXBYwL8cRs",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "1014",
+    "type": "single-hors-album",
+    "title": "Écailles",
+    "releaseDate": "06/aug/2015",
+    "cover": "ecailles.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=kNaYV2jDork",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "1015",
+    "type": "single-hors-album",
+    "title": "Gizeh",
+    "releaseDate": "29/jun/2015",
+    "cover": "gizeh.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=hOZM2im0TVQ",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "1016",
+    "type": "single-hors-album",
+    "title": "Parle-moi (Dirty)",
+    "releaseDate": "08/may/2015",
+    "cover": "parle-moi-dirty.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=2zVu3zjTwBY",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "1017",
+    "type": "single-hors-album",
+    "title": "Peut-être",
+    "releaseDate": "08/may/2015",
+    "cover": "peut-etre.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=QW5M_pOLmeA",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "1018",
+    "type": "single-hors-album",
+    "title": "Cinéma (feat. Suik'on Blaze AD & I.N.C.H)",
+    "releaseDate": "27/apr/2015",
+    "cover": "cinema.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=-6ypKBStc20",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "1019",
+    "type": "single-hors-album",
+    "title": "Péché mignon (Vanité)",
+    "releaseDate": "08/may/2015",
+    "cover": "peche-mignon.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=S4GHMtGh2jw",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "1020",
+    "type": "single-hors-album",
+    "title": "Paye-moi c'est tout",
+    "releaseDate": "08/may/2015",
+    "cover": "paye-moi-cest-tout.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=zYzdkKa5SO4",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "1021",
+    "type": "single-hors-album",
+    "title": "GUSTAME V1",
+    "releaseDate": "08/may/2015",
+    "cover": "gustame-v1.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=I6fLlorv3BA",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "1022",
+    "type": "single-hors-album",
+    "title": "I.N.C.H Beats",
+    "releaseDate": "21/oct/2014",
+    "cover": "inch-beats.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=Oys3tZ4Ans8",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "1023",
+    "type": "single-hors-album",
+    "title": "Winston (BBP Remix)",
+    "releaseDate": "13/oct/2014",
+    "cover": "winston-bbp-remix.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=I0S1BuDQoWQ",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "1024",
+    "type": "single-hors-album",
+    "title": "FREENQNT",
+    "releaseDate": "09/apr/2014",
+    "cover": "freenqnt.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=nqa5BZxT7YU",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "1025",
+    "type": "single-hors-album",
+    "title": "Maïzena (feat. Suik'on Blaze AD)",
+    "releaseDate": "06/mar/2014",
+    "cover": "mazena.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=MsOUSkLhPcA",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "1026",
+    "type": "single-hors-album",
+    "title": "Le Divan",
+    "releaseDate": "18/sep/2013",
+    "cover": "le-divan.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=v1SHhdQmD1c",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "1027",
+    "type": "single-hors-album",
+    "title": "Rendez-moi (feat. Suik'on Blaze AD)",
+    "releaseDate": "08/apr/2012",
+    "cover": "rendez-moi.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=Sjb2a61CvvM",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "1028",
+    "type": "single-hors-album",
+    "title": "Un MONDE ETRANGE CUT version",
+    "releaseDate": "XX/XX/2012",
+    "cover": "un-monde-etrange-cut-version.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=h2InXlUsXjc",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "1029",
+    "type": "single-hors-album",
+    "title": "Holehe",
+    "releaseDate": "XX/XX/2011",
+    "cover": "holehe.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=PSgpVsQnwM4",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "1030",
+    "type": "single-hors-album",
+    "title": "Jack Skellington",
+    "releaseDate": "XX/XX/2011",
+    "cover": "jack-skellington.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=xR8DD_xAynE",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "1031",
+    "type": "single-hors-album",
+    "title": "BANG BANG",
+    "releaseDate": "XX/XX/2011",
+    "cover": "bang-bang.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=Zahm_rLjq0s",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "1032",
+    "type": "single-hors-album",
+    "title": "Paradoxe",
+    "releaseDate": "XX/XX/2010",
+    "cover": "paradoxe.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=hjpo6oISTqY",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "1033",
+    "type": "single-hors-album",
+    "title": "Dans ta face",
+    "releaseDate": "XX/XX/2010",
+    "cover": "dans-ta-face.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=AE1zaXNVXbg",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2001",
+    "type": "freestyle",
+    "title": "\"Gotaga\" #PlanèteRap",
+    "releaseDate": "11/feb/2022",
+    "cover": "gotaga-planeterap.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=0Otpi27roHE",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2002",
+    "type": "freestyle",
+    "title": "VALD se TAPE UNE BARRE ...",
+    "releaseDate": "10/feb/2022",
+    "cover": "vald-se-tape-une-barre.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=5Die_ymzZqs",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2003",
+    "type": "freestyle",
+    "title": "VALD fait parler sa TECHNIQUE...",
+    "releaseDate": "10/feb/2022",
+    "cover": "vald-fait-parler-sa-technique.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=TzeQXtF72Cw",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2004",
+    "type": "freestyle",
+    "title": "4ème SESSION FREESTYLE ft.Rafal, C.BDL & Yonidas",
+    "releaseDate": "10/feb/2022",
+    "cover": "4eme-session-freestyle.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=KWDK-JKAbOc",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2005",
+    "type": "freestyle",
+    "title": "3ème SESSION FREESTYLE ft.Rafal, C.BDL & Yonidas",
+    "releaseDate": "09/feb/2022",
+    "cover": "3eme-session-freestyle.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=zpplExN3hjc",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2006",
+    "type": "freestyle",
+    "title": "2ème SESSION FREESTYLE ft.Rafal, C.BDL & Yonidas",
+    "releaseDate": "08/feb/2022",
+    "cover": "2eme-session-freestyle.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=zKLoIxyoAQo",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2007",
+    "type": "freestyle",
+    "title": "1ère SESSION FREESTYLE ft.Rafal, C.BDL & Yonidas",
+    "releaseDate": "11/feb/2022",
+    "cover": "1ere-session-freestyle.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=VZhW8fXTsLM",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2008",
+    "type": "freestyle",
+    "title": "Live Gotaga : Sur un nouvel album",
+    "releaseDate": "02/feb/2022",
+    "cover": "live-gotaga.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2009",
+    "type": "freestyle",
+    "title": "Live Gotaga : Rappeur conscient",
+    "releaseDate": "02/feb/2022",
+    "cover": "live-gotaga-rappeur-conscient.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2010",
+    "type": "freestyle",
+    "title": "Live Gotaga : Papoose",
+    "releaseDate": "02/feb/2022",
+    "cover": "live-gotaga-papoose.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2011",
+    "type": "freestyle",
+    "title": "Live Gotaga : Pas deux fois",
+    "releaseDate": "02/feb/2022",
+    "cover": "live-gotaga-pas-deux-fois.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2012",
+    "type": "freestyle",
+    "title": "Live Gotaga : Bien-sûr",
+    "releaseDate": "02/feb/2022",
+    "cover": "live-gotaga-bien-sur.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=-71wl0cuNaw",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2013",
+    "type": "freestyle",
+    "title": "Vald France Inter Boomerang",
+    "releaseDate": "13/nov/2019",
+    "cover": "boomerang.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=hs9qOrKu1pE",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2014",
+    "type": "freestyle",
+    "title": "Freestyle Cruel – PlanèteRap",
+    "releaseDate": "09/oct/2019",
+    "cover": "freestyle-cruel-planeterap.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=IDPuMSAUCgM",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2015",
+    "type": "freestyle",
+    "title": "Vald Dans Le Cercle",
+    "releaseDate": "08/feb/2019",
+    "cover": "dans-le-cercle.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=Ytzoi7UoJUs",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2016",
+    "type": "freestyle",
+    "title": "Kalash Criminel \"Un jour de plus\" ft Vald",
+    "releaseDate": "11/dec/2018",
+    "cover": "unjourdeplus-planeterap.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=EEV8bPQTHa8",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": ""
+  },
+  {
+    "id": "2017",
+    "type": "freestyle",
+    "title": "Vald & Heuss L'enfoiré - L'addition #PlanèteRap",
+    "releaseDate": "24/jan/2019",
+    "cover": "laddition-planeterap.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=715xqy4OJ7I",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2018",
+    "type": "freestyle",
+    "title": "Vald & Sofiane - Iencli PlanèteRap",
+    "releaseDate": "05/oct/2018",
+    "cover": "iencli-planeterap.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=eTUB_Cke4dI",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2019",
+    "type": "freestyle",
+    "title": "Berflam #PlanèteRap",
+    "releaseDate": "04/oct/2018",
+    "cover": "berflam-planeterap.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=0SibJ3w591M",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2020",
+    "type": "freestyle",
+    "title": "Freestyle Booska Berflam",
+    "releaseDate": "10/oct/2017",
+    "cover": "freestyle-booska-berflam.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=BIPinhhV53w",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2021",
+    "type": "freestyle",
+    "title": "Posséde Freestyle Insta",
+    "releaseDate": "20/may/2018",
+    "cover": "possede-freestyle-insta.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=qxvwBugGPeg",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "2022",
+    "type": "freestyle",
+    "title": "Chépakichui Freestyle Insta",
+    "releaseDate": "16/sep/2018",
+    "cover": "chepakichui-freestyle-insta.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=254cIavZLOQ",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "2023",
+    "type": "freestyle",
+    "title": "Désaccordé - PlanèteRap",
+    "releaseDate": "31/jan/2018",
+    "cover": "desaccorde-planeterap.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=81KLeO1WyhM",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2024",
+    "type": "freestyle",
+    "title": "Vald & Suikon Blaz AD - Freestyle Exclu PlanèteRap",
+    "releaseDate": "30/jan/2018",
+    "cover": "freestyle-exclu-planeterap.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=ryl-NvQwYqc",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2025",
+    "type": "freestyle",
+    "title": "Vald Freestyle Exclu Xeu - PlanèteRap",
+    "releaseDate": "29/jan/2018",
+    "cover": "freestyle-exclu-xeu-planeterap.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=zMk3A8ExOSI",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2026",
+    "type": "freestyle",
+    "title": "Vald Dragon Sofiane - PlanèteRap",
+    "releaseDate": "31/jan/2018",
+    "cover": "dragon-planeterap.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=KPL6Xd4xhWY",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2027",
+    "type": "freestyle",
+    "title": "Freestyle Chapka",
+    "releaseDate": "XX/XX/2011",
+    "cover": "freestyle-chapka.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=og5qtJXfmd4",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2028",
+    "type": "freestyle",
+    "title": "Vald Abcdr",
+    "releaseDate": "05/nov/2014",
+    "cover": "abcdr.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=y5xpxqd2xxM",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2029",
+    "type": "freestyle",
+    "title": "Vald Strikt Minimum Freestyle",
+    "releaseDate": "21/dec/2014",
+    "cover": "strikt-minimum-freestyle.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=U930A6XQdMk",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "2030",
+    "type": "freestyle",
+    "title": "Vald Acacia Generations",
+    "releaseDate": "22/feb/2017",
+    "cover": "acacia-generations.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=YBFQOIyTb4o",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2031",
+    "type": "freestyle",
+    "title": "VALD - Remix SCH 6.45i",
+    "releaseDate": "21/feb/2017",
+    "cover": "remix-sch-645i.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=Z1-F3KwDlOA",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2032",
+    "type": "freestyle",
+    "title": "Mégadose - PlanèteRap",
+    "releaseDate": "22/dec/2016",
+    "cover": "megadose-planeterap.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=Ctafbfj1Xro",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2033",
+    "type": "freestyle",
+    "title": "Vald, Sofiane, Kalash Crimi - PlanèteRap",
+    "releaseDate": "21/dec/2016",
+    "cover": "vald-sofiane-kalash-crimi-planeterap.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=UaH8cAGdjzw",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2034",
+    "type": "freestyle",
+    "title": "Bonjour et Freestyle PlanèteRap",
+    "releaseDate": "25/sep/2015",
+    "cover": "bonjour-et-freestyle-planeterap.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=s5LWc3cN01g",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2035",
+    "type": "freestyle",
+    "title": "Freestyle Vald et Ad en Live",
+    "releaseDate": "24/sep/2015",
+    "cover": "freestyle-vald-et-ad-en-live.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=CTtYrF6cAr4",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2036",
+    "type": "freestyle",
+    "title": "Vald, I.N.C.H, Suik'On Blaze AD - PlanèteRap",
+    "releaseDate": "22/sep/2015",
+    "cover": "vald-inch-suikon-blaze-ad-planeterap.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=80FnOHmyk1U",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2037",
+    "type": "freestyle",
+    "title": "Vald en Freestyle PlanèteRap",
+    "releaseDate": "21/sep/2015",
+    "cover": "vald-en-freestyle-planeterap.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=qJ4_kTggTns",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2038",
+    "type": "freestyle",
+    "title": "Vald, Sofiane, Georgio, Jarod - PlanèteRap",
+    "releaseDate": "26/dec/2014",
+    "cover": "vald-sofiane-georgio-jarod-planeterap.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=P03RdVrqcCM",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2039",
+    "type": "freestyle",
+    "title": "Vald, AD, I.N.C.H, Kro - PlanèteRap",
+    "releaseDate": "23/dec/2014",
+    "cover": "vald-ad-inch-kro-planeterap.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=gopfMMwoy_w",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2040",
+    "type": "freestyle",
+    "title": "Aulnay Sous Bois PlanèteRap",
+    "releaseDate": "23/dec/2014",
+    "cover": "aulnay-sous-bois-planeterap.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=nowJ0n3szEE",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2041",
+    "type": "freestyle",
+    "title": "Vald - Booska NQNT",
+    "releaseDate": "31/oct/2014",
+    "cover": "vald-booska-nqnt.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=7kSxFSn18Qw",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2042",
+    "type": "freestyle",
+    "title": "Vald NQNT - GENERATIONS FREESTYLE 2",
+    "releaseDate": "27/oct/2014",
+    "cover": "vald-nqnt-generations-freestyle-2.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=09puvCgMqO0",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2043",
+    "type": "freestyle",
+    "title": "Vald NQNT - GENERATIONS FREESTYLE 1",
+    "releaseDate": "27/oct/2014",
+    "cover": "vald-nqnt-generations-freestyle-1.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=YieKor4NjYo",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2044",
+    "type": "freestyle",
+    "title": "Gros Freestyle de VALD",
+    "releaseDate": "12/jan/2012",
+    "cover": "gros-freestyle-de-vald.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=kRIqA9FGw2Y",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2045",
+    "type": "freestyle",
+    "title": "Vald - Freestyle - Daymolition",
+    "releaseDate": "22/jun/2014",
+    "cover": "vald-freestyle-daymolition.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=Xu481r2_Qzo",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2046",
+    "type": "freestyle",
+    "title": "Vald x Georgio - Freestyle – Daymolition",
+    "releaseDate": "XX/XX/2012",
+    "cover": "vald-x-georgio-freestyle-daymolition.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=KX7KoRwNz40",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2047",
+    "type": "freestyle",
+    "title": "Vald Freestyle Chez Stoemp",
+    "releaseDate": "05/jun/2014",
+    "cover": "vald-freestyle-chez-stoemp.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=oRYzFuF5S8U",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2048",
+    "type": "freestyle",
+    "title": "Tunisiano, Aketo, Sofiane, Vald - PlanèteRap",
+    "releaseDate": "14/mar/2014",
+    "cover": "tunisiano-aketo-sofiane-vald-planeterap.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=pQCTquW2u8A",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2049",
+    "type": "freestyle",
+    "title": "Gusta Me Freestyle Dailymotion",
+    "releaseDate": "06/dec/2013",
+    "cover": "gusta-me-freestyle-dailymotion.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=t8rvQjXevYs",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2050",
+    "type": "freestyle",
+    "title": "Vald, Lomepal, Georgio, Rmak, Kema, Grodash, Eech, A2H, Vald & Eric - Freestyle Daymolition",
+    "releaseDate": "03/oct/2013",
+    "cover": "vald-lomepal-georgio-rmak-kema-grodash-eech-a2h-vald-eric-freestyle-daymolition.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=fRc0G_BTDFE",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2051",
+    "type": "freestyle",
+    "title": "John Doe 27 - 75esession ∅",
+    "releaseDate": "18/mar/2012",
+    "cover": "john-doe-27-75esession.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=T2VE9jrg3ug",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2052",
+    "type": "freestyle",
+    "title": "Freestyle Sequestration",
+    "releaseDate": "02/feb/2012",
+    "cover": "freestyle-sequestration.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=gQbQHNbZDHk",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2053",
+    "type": "freestyle",
+    "title": "Freestyle CQFD",
+    "releaseDate": "29/dec/2011",
+    "cover": "freestyle-cqfd.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=mKH0sZaY91s",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2054",
+    "type": "freestyle",
+    "title": "Freestyle Daymolition (4)",
+    "releaseDate": "27/aug/2011",
+    "cover": "freestyle-daymolition-4.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=rNSo7UzPjvs",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2055",
+    "type": "freestyle",
+    "title": "Freestyle Daymolition (3)",
+    "releaseDate": "27/aug/2011",
+    "cover": "freestyle-daymolition-3.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=g33WZTXA9bc",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2056",
+    "type": "freestyle",
+    "title": "Freestyle Daymolition (2)",
+    "releaseDate": "27/aug/2011",
+    "cover": "freestyle-daymolition-2.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=f55Sddv8CO4",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "2057",
+    "type": "freestyle",
+    "title": "Freestyle Daymolition",
+    "releaseDate": "27/aug/2011",
+    "cover": "freestyle-daymolition.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=POVVhaU9708",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3001",
+    "type": "exclu",
+    "title": "Vérité (feat. Suik'on Blaze AD)",
+    "releaseDate": "XX/XX/2010",
+    "cover": "verite.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=rN_S1phCyQY",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3002",
+    "type": "single-hors-album-other",
+    "title": "Voraces - Souffrance feat. Vald",
+    "releaseDate": "06/dec/2023",
+    "cover": "voraces.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=Su6YettpXzU",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "3003",
+    "type": "single-hors-album-other",
+    "title": "Fan – Bigflo et Oli feat. Vald",
+    "releaseDate": "21/nov/2022",
+    "cover": "fan.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=3cqASl0AApI",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3004",
+    "type": "single-hors-album-other",
+    "title": "Alliance - Sadek feat. Vald",
+    "releaseDate": "09/apr/2021",
+    "cover": "alliance.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=Wvyjk0DQJj0",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3005",
+    "type": "single-hors-album-other",
+    "title": "Baby (Extrait de la BO de « En Passant Pécho »)",
+    "releaseDate": "01/apr/2021",
+    "cover": "baby.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=SDTjv45A1TE",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "3006",
+    "type": "single-hors-album-other",
+    "title": "Jusqu'à la fin - 7 Jaws feat. Vald",
+    "releaseDate": "25/feb/2021",
+    "cover": "jusqua-la-fin.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=Do_Bz5E5cnk",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3007",
+    "type": "single-hors-album-other",
+    "title": "Jetez pas l'œil - Gims feat. Vald",
+    "releaseDate": "10/dec/2020",
+    "cover": "jetez-pas-loeil.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=3rAHm4n-Ooo",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3008",
+    "type": "single-hors-album-other",
+    "title": "Pas de reine - Koba LaD feat. Vald",
+    "releaseDate": "10/dec/2020",
+    "cover": "pas-de-reine.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=s81c1qtUluE",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3009",
+    "type": "single-hors-album-other",
+    "title": "Pour eux - Naps feat. Vald",
+    "releaseDate": "27/apr/2020",
+    "cover": "pour-eux.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=wKXhPMj7uSc",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3010",
+    "type": "single-hors-album-other",
+    "title": "Freestyle BooskaVald (Call 911)",
+    "releaseDate": "18/oct/2019",
+    "cover": "freestyle-booskavald-call-911.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=6WscZ3eLfyg",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3011",
+    "type": "single-hors-album-other",
+    "title": "Atmosfear - Fresh Out Da Box feat. I.N.CH, Al'Tarba, Suikon Blaz AD & Vald",
+    "releaseDate": "29/mar/2019",
+    "cover": "atmosfear-fresh-out-da-box.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3012",
+    "type": "single-hors-album-other",
+    "title": "Bitch – Lefa feat. Vald",
+    "releaseDate": "10/jul/2019",
+    "cover": "bitch.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=M3iGcTxw5d4",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "3013",
+    "type": "single-hors-album-other",
+    "title": "Elévation - Vladimir Cauchemar feat. Vald",
+    "releaseDate": "20/jun/2019",
+    "cover": "elevation.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=jj88i2vhdcg",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "3014",
+    "type": "single-hors-album-other",
+    "title": "J'suis loin - Jul feat. Vald",
+    "releaseDate": "28/jun/2019",
+    "cover": "jsuis-loin.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3015",
+    "type": "single-hors-album-other",
+    "title": "93 Empire - Woah (Sofiane, Vald, Soolking, Sadek, Mac Tyer, Heuss L'enfoiré, Kalash Criminel)",
+    "releaseDate": "03/aug/2018",
+    "cover": "93-empire-woah.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=QHyy5vV1uP0",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3016",
+    "type": "single-hors-album-other",
+    "title": "Iencli - Sofiane feat. Vald",
+    "releaseDate": "07/dec/2018",
+    "cover": "iencli.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=yBv8gz7QZLY",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3017",
+    "type": "single-hors-album-other",
+    "title": "Barbara - Georgio feat. Vald",
+    "releaseDate": "26/nov/2018",
+    "cover": "barbara.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=VI2v5MyAa-k",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3018",
+    "type": "single-hors-album-other",
+    "title": "Un jour de plus - Kalash Criminel feat. Vald",
+    "releaseDate": "22/nov/2018",
+    "cover": "un-jour-de-plus.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=hn3FP4eqYqg",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3019",
+    "type": "single-hors-album-other",
+    "title": "DeLorean - Rim'K feat. Vald",
+    "releaseDate": "14/nov/2018",
+    "cover": "delorean.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=g0RDiqCQsqw",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3020",
+    "type": "single-hors-album-other",
+    "title": "Qui dit mieux - Gringe feat. Orelsan, Suik'on Blaze AD & Vald",
+    "releaseDate": "02/nov/2018",
+    "cover": "qui-dit-mieux.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=507d9xto6Og",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3021",
+    "type": "single-hors-album-other",
+    "title": "L'addition - Heuss l'Enfoiré feat. Vald",
+    "releaseDate": "12/oct/2018",
+    "cover": "laddition.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=1sOcsNRGNQA",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "3022",
+    "type": "single-hors-album-other",
+    "title": "Wilson - I.N.C.H feat. Vald",
+    "releaseDate": "11/oct/2018",
+    "cover": "wilson.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=DncsWImJMV4",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3023",
+    "type": "single-hors-album-other",
+    "title": "Guedro (Remix) - Kalash Criminel feat. Mac Tyer, Vald & Sofiane",
+    "releaseDate": "24/jul/2018",
+    "cover": "guedro-remix.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=lNHsZnmnG6A",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3024",
+    "type": "single-hors-album-other",
+    "title": "Bizarre - Lorenzo ft. Vald",
+    "releaseDate": "04/jul/2018",
+    "cover": "bizarre.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=VfzhSbFPSRg",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3025",
+    "type": "single-hors-album-other",
+    "title": "Valise - Hornet la Frappe & Vald",
+    "releaseDate": "20/apr/2018",
+    "cover": "valise.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=H547zrdEuGI",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3026",
+    "type": "single-hors-album-other",
+    "title": "La Fin du Monde - Freddy Gruesum feat. Vald",
+    "releaseDate": "11/mar/2018",
+    "cover": "la-fin-du-monde-freddy-gruesum-feat-vald.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=ZNkf6h_5njI",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "3027",
+    "type": "single-hors-album-other",
+    "title": "Plus haut - Alkpote feat. Vald",
+    "releaseDate": "04/dec/2017",
+    "cover": "plus-haut.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=T_X-BbsXXAk",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "3028",
+    "type": "single-hors-album-other",
+    "title": "Freestyle BooskAgartha",
+    "releaseDate": "18/jan/2017",
+    "cover": "freestyle-booskagartha.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=if6CstCzqEc",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3029",
+    "type": "single-hors-album-other",
+    "title": "Les marches de l'empereur #2 - Alkpote feat. Vald, Biffty et Iron Sy",
+    "releaseDate": "27/jun/2016",
+    "cover": "les-marches-de-lempereur-2.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=viT-udb6Gzg",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3030",
+    "type": "single-hors-album-other",
+    "title": "Numero 13 - Katana feat. Vald, Zekwe Ramos & Rabakar",
+    "releaseDate": "01/may/2016",
+    "cover": "numero-13-katana-feat-vald-zekwe-ramos-rabakar.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=HrON4Wq54W4",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3031",
+    "type": "single-hors-album-other",
+    "title": "Quoi d'neuf fréro - I.N.C.H feat. Vald, Suikonblaze AD",
+    "releaseDate": "01/may/2016",
+    "cover": "quoi-dneuf-frero.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=Q_IekdF5Ct8",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3032",
+    "type": "single-hors-album-other",
+    "title": "Ding Dong - I.N.C.H feat. Vald, Kro (FODB), Suikonblaze AD",
+    "releaseDate": "06/jul/2016",
+    "cover": "ding-dong.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=tUxEvM4koM0",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3033",
+    "type": "single-hors-album-other",
+    "title": "Amen - DJ Cerk feat. Vald",
+    "releaseDate": "12/dec/2015",
+    "cover": "amen.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=3dxSE_UM8tM",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3034",
+    "type": "single-hors-album-other",
+    "title": "Freestyle Booska NQNT2",
+    "releaseDate": "25/sep/2015",
+    "cover": "freestyle-booska-nqnt2.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=8nEFVU-Q2Og",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3035",
+    "type": "single-hors-album-other",
+    "title": "Pleurez - Alkpote feat. Vald",
+    "releaseDate": "04/jun/2015",
+    "cover": "pleurez.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=2iR2b4xI9u0",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3036",
+    "type": "single-hors-album-other",
+    "title": "Meilleur lendemain - Alkpote feat. Vald",
+    "releaseDate": "23/mar/2015",
+    "cover": "meilleur-lendemain.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=Yesg9WkBLRw",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "3037",
+    "type": "single-hors-album-other",
+    "title": "Cheese - Bazoo feat. Goune & Vald",
+    "releaseDate": "26/nov/2014",
+    "cover": "cheese.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=s_Nmfshh5XU",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3038",
+    "type": "single-hors-album-other",
+    "title": "Freestyle Booska NQNT",
+    "releaseDate": "31/oct/2014",
+    "cover": "freestyle-booska-nqnt.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=7kSxFSn18Qw",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3039",
+    "type": "single-hors-album-other",
+    "title": "Carré - Tunisiano feat. Ol Kainry, Vald & Sofiane",
+    "releaseDate": "19/aug/2014",
+    "cover": "carre.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=e_VhqjQioWM",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "3040",
+    "type": "single-hors-album-other",
+    "title": "N°02062014,2 - L'Animalerie feat. Paco, Robse, Suik'on Blaze AD & Vald",
+    "releaseDate": "02/jun/2014",
+    "cover": "n020620142.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=0G1xx6bJOkY",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3041",
+    "type": "single-hors-album-other",
+    "title": "(N°02062014 :,2) version CUT version",
+    "releaseDate": "02/jun/2014",
+    "cover": "n02062014-2-version-cut.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=GRvLfWMSHB0",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3042",
+    "type": "single-hors-album-other",
+    "title": "Présentation - Melan feat. Georgio & Vald",
+    "releaseDate": "12/jul/2016",
+    "cover": "presentation.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=aKPggfC7DCg",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "3043",
+    "type": "single-hors-album-other",
+    "title": "Tu sais c'qui s'passe - Georgio feat. Vald",
+    "releaseDate": "28/jan/2014",
+    "cover": "tu-sais-cqui-spasse.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=1LzFfAJ5VmY",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3044",
+    "type": "single-hors-album-other",
+    "title": "Mon insolence - Goune feat. Vald",
+    "releaseDate": "03/mar/2014",
+    "cover": "mon-insolence.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=Wsa5drwuQds",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3045",
+    "type": "single-hors-album-other",
+    "title": "Natural Born Kickeurs - Bazoo feat. Goune, Georgio, Boxon, Hancock, L'Animal, Rabakar, Syen, Stick & Vald",
+    "releaseDate": "01/feb/2014",
+    "cover": "natural-born-kickeurs.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=2qZkxoMFHt4",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3046",
+    "type": "single-hors-album-other",
+    "title": "Ma bite et ma voix - Missak feat. Demi Portion, Dico, Doc Brown, Ethor Skull, Georgio Liqid, Lucio Bukowski, Nekfeu & Vald",
+    "releaseDate": "27/dec/2013",
+    "cover": "ma-bite-et-ma-voix.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=KHoyzxyKMpw",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3047",
+    "type": "single-hors-album-other",
+    "title": "Sex, Drug and Rock'n'Roll – Georgio feat. Hologram Lo'Vald, Alpha Wann & Lomepal",
+    "releaseDate": "10/jul/2013",
+    "cover": "sex-drug-and-rocknroll.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=ahUu6leMpJE",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3048",
+    "type": "single-hors-album-other",
+    "title": "L'Undaground s'exprime Chapitre 6 - Rockin' Squat Feat. Wush, T-Nord & F.a.s.k, TonyToxik, Mr Agaz, Grödash, Le Célèbre Bauza, Vald et DJ Nixon",
+    "releaseDate": "07/jun/2013",
+    "cover": "lundaground-sexprime-chapitre-6.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=1ehXFG3bVN8",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3049",
+    "type": "single-hors-album-other",
+    "title": "Fontaine de Jouvence – Bazoo feat. Vald",
+    "releaseDate": "22/mar/2013",
+    "cover": "fontaine-de-jouvence.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=msjwju1UNus",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3050",
+    "type": "single-hors-album-other",
+    "title": "N°18012013 / Ilenazz, Na.k / Dico, Ethor Skull",
+    "releaseDate": "05/feb/2013",
+    "cover": "n18012013.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=YcivyCO0mkE",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3051",
+    "type": "single-hors-album-other",
+    "title": "(N°18012013) version CUT version, Missak, Vald, AD / Anton Serra, Lucio Bukowski",
+    "releaseDate": "05/feb/2013",
+    "cover": "n18012013-version-cut.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=tGoh-rGEI5I",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3052",
+    "type": "single-hors-album-other",
+    "title": "Borderline - Rabakar feat. Vald",
+    "releaseDate": "04/feb/2013",
+    "cover": "borderline.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=-gRx4ZZ5SHQ",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3053",
+    "type": "single-hors-album-other",
+    "title": "Borderline CUT",
+    "releaseDate": "04/feb/2014",
+    "cover": "borderline-cut.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=AGvjJ9Ollow",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3054",
+    "type": "single-hors-album-other",
+    "title": "Brutaliser - Jarod feat.Vald",
+    "releaseDate": "10/dec/2012",
+    "cover": "brutaliser.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=9MWUqG0DRX0",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "3055",
+    "type": "single-hors-album-other",
+    "title": "Qu'on me sorte de là - Tortoz feat. Vald",
+    "releaseDate": "11/jun/2012",
+    "cover": "quon-me-sorte-de-la.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=mqPUrhg5VOQ",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3056",
+    "type": "single-hors-album-other",
+    "title": "Un Monde étrange – Aif' Fratricid (feat. Ludo, Vald)",
+    "releaseDate": "XX/XX/2012",
+    "cover": "un-monde-etrange.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=_TOulocRcmI",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3057",
+    "type": "single-hors-album-other",
+    "title": "En attendant le clip - Georgio feat. Vald",
+    "releaseDate": "XX/XX/2011",
+    "cover": "en-attendant.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "3058",
+    "type": "single-hors-album-other",
+    "title": "BANG BANG / Beng Beng Remix / L'Heure Du Bilan (feat. (Diablow/Sen'C/Madara), M.Flow (Aifailow/Aif' Fratricid)",
+    "releaseDate": "XX/XX/2010",
+    "cover": "bang-bang-beng-beng-remix-lheure-du-bilan.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "4001",
+    "type": "exclu",
+    "title": "Fleur du mal",
+    "releaseDate": "25/jul/2023",
+    "cover": "fleur-du-mal.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=WDo8uL3sYh8",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4002",
+    "type": "exclu",
+    "title": "Megadose Remix (medley setlist festival)",
+    "releaseDate": "XX/XX/2022",
+    "cover": "megadose-remix-medley-setlist.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4003",
+    "type": "exclu",
+    "title": "PensionMan Remix (medley setlist festival)",
+    "releaseDate": "XX/XX/2022",
+    "cover": "pensionman-remix.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4004",
+    "type": "exclu",
+    "title": "TechnoVald (festival)",
+    "releaseDate": "XX/XX/2022",
+    "cover": "technovald.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4005",
+    "type": "exclu",
+    "title": "Couplé Exclu de « Ce Soir »",
+    "releaseDate": "16/dec/2021",
+    "cover": "couple-exclu-de-ce-soir.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4006",
+    "type": "exclu",
+    "title": "Headshot #PlanèteRap « HS ft. Echelon »",
+    "releaseDate": "XX/XX/2022",
+    "cover": "headshot-planeterap.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "4007",
+    "type": "exclu",
+    "title": "Exclu Planète Rap (dans « 4ème session / ..se tappe une barre..»)",
+    "releaseDate": "10/feb/2022",
+    "cover": "exclu-planeterap.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "4008",
+    "type": "exclu",
+    "title": "C'est la Folie",
+    "releaseDate": "17/feb/2022",
+    "cover": "cest-la-folie.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=QpOUu2Qr0YU",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4009",
+    "type": "exclu",
+    "title": "BONUS TWITTER",
+    "releaseDate": "16/jan/2021",
+    "cover": "exclu-instagram.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=iB93wpi7rY8",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4010",
+    "type": "exclu",
+    "title": "Couplet coupé au master d'Horizon Vertical",
+    "releaseDate": "XX/XX/2021",
+    "cover": "couplet-coupe-au-master-dhorizon-vertical.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "4011",
+    "type": "exclu",
+    "title": "Bien sur",
+    "releaseDate": "16/dec/2021",
+    "cover": "bien-sur.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4012",
+    "type": "exclu",
+    "title": "Distrait",
+    "releaseDate": "16/dec/2021",
+    "cover": "distrait.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4013",
+    "type": "exclu",
+    "title": "Où je prend la mienne ?",
+    "releaseDate": "16/dec/2021",
+    "cover": "ou-je-prend-la-mienne.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4014",
+    "type": "exclu",
+    "title": "Where are my Lovers ?",
+    "releaseDate": "18/dec/2021",
+    "cover": "where-are-my-lovers.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=qtvH-l1cSb4",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4015",
+    "type": "exclu",
+    "title": "Ce soir",
+    "releaseDate": "16/dec/2021",
+    "cover": "ce-soir.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4016",
+    "type": "exclu",
+    "title": "Royal Bacon Exclu",
+    "releaseDate": "22/dec/2018",
+    "cover": "royalbacon-exclu.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=4rfLTx_Em3A",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": ""
+  },
+  {
+    "id": "4017",
+    "type": "exclu",
+    "title": "Nouvelle industrie",
+    "releaseDate": "16/dec/2021",
+    "cover": "nouvelle-industrie.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4018",
+    "type": "exclu",
+    "title": "La Machine",
+    "releaseDate": "16/dec/2021",
+    "cover": "la-machine.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4019",
+    "type": "exclu",
+    "title": "Snippets ShowCase (Anunnaki)",
+    "releaseDate": "XX/XX/2021",
+    "cover": "snippets-showcase-anunnaki.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4020",
+    "type": "exclu",
+    "title": "Sapin de Noêl = RoyalCheese",
+    "releaseDate": "XX/XX/2020",
+    "cover": "sapin-de-noel-royalcheese.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4021",
+    "type": "exclu",
+    "title": "Composé V / Freestyle Chat",
+    "releaseDate": "01/nov/2020",
+    "cover": "compose-v-freestyle-chat.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=puTwlbGy_uc",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4022",
+    "type": "exclu",
+    "title": "Selfie Remix",
+    "releaseDate": "01/aug/2017",
+    "cover": "selfie-remix.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=Qvg0BSHMIq0",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4023",
+    "type": "exclu",
+    "title": "Extrait Libellule",
+    "releaseDate": "2015-2020",
+    "cover": "extrait-libellule.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4024",
+    "type": "exclu",
+    "title": "Natural Born Kickeur CUT",
+    "releaseDate": "01/feb/2014",
+    "cover": "natural-born-kickeur-vald-bazoo-et-goune.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=RHwih9468uM",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4025",
+    "type": "exclu",
+    "title": "Pauline Kerch Outro",
+    "releaseDate": "22/jan/2011",
+    "cover": "pauline-kerch-outro.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=C3HUYAAHDiw",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4026",
+    "type": "exclu",
+    "title": "Exclu Elevation",
+    "releaseDate": "2015-2020",
+    "cover": "exclu-elevation.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=xjx6zoudpyE",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4027",
+    "type": "exclu",
+    "title": "Freestyle Tu Sais Cqui S'passe en repet'",
+    "releaseDate": "XX/XX/2018",
+    "cover": "freestyle-tu-sais-cqui-spasse-en-repet.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=X_pcuIDrzZQ",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4028",
+    "type": "exclu",
+    "title": "Freestyle Troll",
+    "releaseDate": "2015-2020",
+    "cover": "freestyle-troll.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4029",
+    "type": "exclu",
+    "title": "Hologramme",
+    "releaseDate": "2015-2020",
+    "cover": "hologramme.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=uZ4pkG3Lc-0",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4030",
+    "type": "exclu",
+    "title": "Priere / 6H13",
+    "releaseDate": "2015-2020",
+    "cover": "priere-6h13.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=syCv9zkq6b8",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4031",
+    "type": "exclu",
+    "title": "Condescendance (HD)",
+    "releaseDate": "2015-2020",
+    "cover": "condescendance.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=XOKEgWnY3x4",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4032",
+    "type": "exclu",
+    "title": "Ne Me Deteste Pas Exclu Version Longue",
+    "releaseDate": "23/apr/2018",
+    "cover": "ne-me-deteste-pas-exclu-version-longue.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=QF9OluITjsM",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4033",
+    "type": "exclu",
+    "title": "St Valentin",
+    "releaseDate": "2015-2020",
+    "cover": "st-valentin.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=02pS-SBokPs",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4034",
+    "type": "exclu",
+    "title": "Cannibale",
+    "releaseDate": "17/jul/2018",
+    "cover": "cannibale.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=25waGWmQeGI",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4035",
+    "type": "exclu",
+    "title": "Ainsi j'écoute",
+    "releaseDate": "2015-2020",
+    "cover": "ainsi-jecoute.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=KF1zcUWqfDg",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4036",
+    "type": "exclu",
+    "title": "Je t'aime Exclu",
+    "releaseDate": "2015-2020",
+    "cover": "je-taime-exclu.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4037",
+    "type": "exclu",
+    "title": "Dior",
+    "releaseDate": "2015-2020",
+    "cover": "dior.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=X7TdQ2KVymw",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4038",
+    "type": "exclu",
+    "title": "MHD",
+    "releaseDate": "06/may/2017",
+    "cover": "mhd.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=aPRddPmWGRU",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4039",
+    "type": "exclu",
+    "title": "Drogue et Bitch",
+    "releaseDate": "20/mar/2017",
+    "cover": "Drogue-et-bitch.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=lqRL8_3EHIA",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4040",
+    "type": "exclu",
+    "title": "Ignorant Alternative Version",
+    "releaseDate": "14/oct/2019",
+    "cover": "ignorant-alternative-version.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=oCcdxMfVMyY",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4041",
+    "type": "exclu",
+    "title": "ActeDeFoie",
+    "releaseDate": "2015-2020",
+    "cover": "actedefoie.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=qM_ExD9Qapo",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4042",
+    "type": "exclu",
+    "title": "Cannibale",
+    "releaseDate": "17/jul/2018",
+    "cover": "cannibale.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=25waGWmQeGI",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4043",
+    "type": "exclu",
+    "title": "AnnieCordy",
+    "releaseDate": "2015-2020",
+    "cover": "anniecordy.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=sacDOTgfHGs",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4044",
+    "type": "exclu",
+    "title": "LaVieDeRêve",
+    "releaseDate": "22/oct/2019",
+    "cover": "laviedereve.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=GJgg_agPtWE",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4045",
+    "type": "exclu",
+    "title": "Psychose",
+    "releaseDate": "2015-2020",
+    "cover": "psychose.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=Kaqy7bnxhJQ",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4046",
+    "type": "exclu",
+    "title": "Crystallisé",
+    "releaseDate": "30/apr/2020",
+    "cover": "crystallise.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=yzpn8TlmZGU",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4047",
+    "type": "exclu",
+    "title": "XeuLeDoc",
+    "releaseDate": "2015-2020",
+    "cover": "xeuledoc.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4048",
+    "type": "exclu",
+    "title": "Balenciaga",
+    "releaseDate": "11/nov/2022",
+    "cover": "balenciaga.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4049",
+    "type": "exclu",
+    "title": "Promis",
+    "releaseDate": "2015-2020",
+    "cover": "Promis .png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=uB1BuqO2K34",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4050",
+    "type": "exclu",
+    "title": "Je t’aime version exclu",
+    "releaseDate": "2015-2020",
+    "cover": "Jetaime-exclu.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=JfGa_vQ3CKQ",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4051",
+    "type": "exclu",
+    "title": "Bad trip",
+    "releaseDate": "2015-2020",
+    "cover": "badtrip.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=bzdPARDNIRI",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4052",
+    "type": "exclu",
+    "title": "Vald Seezy Freestyle Troll",
+    "releaseDate": "2015-2020",
+    "cover": "Vald-seezy-freestyle-troll.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=S71iwYd6Bww",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "4053",
+    "type": "exclu",
+    "title": "OK (interlude)",
+    "releaseDate": "22/jan/2016",
+    "cover": "ok-interlude.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/watch?v=mBZSP03x704",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "yes"
+  },
+  {
+    "id": "5001",
+    "type": "album",
+    "title": "NQNTMQMQMB",
+    "releaseDate": "25/jan/2012",
+    "cover": "nqntmqmqmb.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_kbsRozD4kYc9mOLD5PJQMrIA9JNwx173U",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "5002",
+    "type": "album",
+    "title": "COURS DE RATTRAPAGE",
+    "releaseDate": "16/dec/2012",
+    "cover": "cours-de-rattrapage.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_kbsRozD4kYc9mOLD5PJQMrIA9JNwx173U",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "5003",
+    "type": "album",
+    "title": "NQNT",
+    "releaseDate": "27/oct/2014",
+    "cover": "nqnt.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "5004",
+    "type": "album",
+    "title": "NQNT 2",
+    "releaseDate": "25/sep/2015",
+    "cover": "nqnt-2.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_lucRtetgJDw_y4j--h2kj-wRXra4zS63Q",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "5005",
+    "type": "album",
+    "title": "Agartha",
+    "releaseDate": "20/jan/2017",
+    "cover": "agartha.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no",
+    "custom-covers": {
+      "2": {
+        "path": "megadose.png"
+      },
+      "11": {
+        "path": "eurotrap.png"
+      },
+      "12": {
+        "path": "petite-chatte.png"
+      }
+    }
+  },
+  {
+    "id": "5006",
+    "type": "album",
+    "title": "NQNT3",
+    "releaseDate": "15/sep/2017",
+    "cover": "nqnt3.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/playlist?list=PL1BJ0BC33koX_JbFhF6YD2kcCPhHaxa8o",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "5007",
+    "type": "album",
+    "title": "XEU",
+    "releaseDate": "02/feb/2018",
+    "cover": "xeu.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_n2c8Z5xd6RssQzUIFJMHeO4RA3rjAlNbM",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no",
+    "lostTracks": {
+      "6": {
+        "name": "Résidus",
+        "url": "https://www.youtube.com/watch?v=hgTe8uiDTAc",
+        "mode": "replace-mode"
+      }
+    }
+  },
+  {
+    "id": "5008",
+    "type": "album",
+    "title": "NQNT33",
+    "releaseDate": "28/sep/2018",
+    "cover": "nqnt33.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_l928G49GGyHd8qszs1pPTeT9jyXpd-bRg",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "5009",
+    "type": "album",
+    "title": "Ce monde est cruel",
+    "releaseDate": "11/oct/2019",
+    "cover": "ce-monde-est-cruel.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_lu62XqF1suGVRDiXhdhxzNoieKcwRnM6M",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "5010",
+    "type": "album",
+    "title": "horizon vertical",
+    "releaseDate": "18/dec/2020",
+    "cover": "horizon-vertical.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_nz4ob6IS6XYUuTUBwSAfFWEa21mmegP6s",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "5011",
+    "type": "album",
+    "title": "Echelon Vol .1",
+    "releaseDate": "03/sep/2021",
+    "cover": "echelon-vol-1.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "5012",
+    "type": "album",
+    "title": "Echelon Vol .2",
+    "releaseDate": "10/dec/2021",
+    "cover": "echelon-vol-2.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_lm8SmfAu6VZkBCSnT-amqUelsixM8qe7Q",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "5013",
+    "type": "album",
+    "title": "V",
+    "releaseDate": "04/feb/2022",
+    "cover": "v.png",
+    "streamingLinks": {
+      "youtube": null,
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "5014",
+    "type": "album",
+    "title": "VV5",
+    "releaseDate": "16/dec/2022",
+    "cover": "vv5.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_kwc-z3ijN4vM_96EFYmY27WC-HRdUSOEM",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "5015",
+    "type": "album",
+    "title": "Pandemonium",
+    "releaseDate": "28/mar/2025",
+    "cover": "pandemonium.jpg",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_mbnr1bPG2pUwtrYk_7uo6f9BdQLmQHuQ4",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  },
+  {
+    "id": "5016",
+    "type": "album",
+    "title": "Pandemonium RELOADED",
+    "releaseDate": "23/may/2025",
+    "cover": "pandemonium-reloaded.png",
+    "streamingLinks": {
+      "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_n8JOCYiJQLPnpIwLh3n1WH51BkA_ElBkE",
+      "spotify": null,
+      "youtubeMusic": null,
+      "appleMusic": null,
+      "deezer": null,
+      "local": null
+    },
+    "youtube-cover": "no"
+  }
+]
