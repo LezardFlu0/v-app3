@@ -3560,54 +3560,6 @@
       }
     }
   },
-  {
-    "id": "5016",
-    "type": "album",
-    "title": "PTSD",
-    "releaseDate": "28/mar/2025",
-    "cover": "pandemonium.jpg",
-    "streamingLinks": {
-      "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_n8JOCYiJQLPnpIwLh3n1WH51BkA_ElBkE",
-      "spotify": null,
-      "youtubeMusic": null,
-      "appleMusic": null,
-      "deezer": null,
-      "local": null
-    },
-    "youtube-cover": "no"
-  },
-    {
-    "id": "5017",
-    "type": "album",
-    "title": "VICTOIRE",
-    "releaseDate": "28/mar/2025",
-    "cover": "pandemonium.jpg",
-    "streamingLinks": {
-      "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_n8JOCYiJQLPnpIwLh3n1WH51BkA_ElBkE",
-      "spotify": null,
-      "youtubeMusic": null,
-      "appleMusic": null,
-      "deezer": null,
-      "local": null
-    },
-    "youtube-cover": "no"
-  },
-    {
-    "id": "5018",
-    "type": "album",
-    "title": "DEMON",
-    "releaseDate": "28/mar/2025",
-    "cover": "pandemonium.jpg",
-    "streamingLinks": {
-      "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_n8JOCYiJQLPnpIwLh3n1WH51BkA_ElBkE",
-      "spotify": null,
-      "youtubeMusic": null,
-      "appleMusic": null,
-      "deezer": null,
-      "local": null
-    },
-    "youtube-cover": "no"
-  },
     {
     "id": "5019",
     "type": "album",
@@ -3706,6 +3658,7 @@
   }
 
 ]
+
 
 
 
