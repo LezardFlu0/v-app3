@@ -3376,6 +3376,28 @@
       "local": null
     },
     "youtube-cover": "no"
+    "lostTracks": {
+      "17": {
+        "name": "Casimir",
+        "url": "https://www.youtube.com/watch?v=hgTe8uiDTAc",
+        "mode": "added-mode"
+      },
+      "18": {
+        "name": "Doli",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "mode": "added-mode"
+      },
+      "19": {
+        "name": "Persuadé",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "mode": "added-mode"
+      },
+      "20": {
+        "name": "Gringo envoie un mess",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "mode": "added-mode"
+      }
+    }
   },
   {
     "id": "5010",
@@ -3424,22 +3446,65 @@
       "local": null
     },
     "youtube-cover": "no"
-  },
-  {
-    "id": "5013",
-    "type": "album",
-    "title": "V",
-    "releaseDate": "04/feb/2022",
-    "cover": "v.png",
-    "streamingLinks": {
-      "youtube": null,
-      "spotify": null,
-      "youtubeMusic": null,
-      "appleMusic": null,
-      "deezer": null,
-      "local": null
     },
-    "youtube-cover": "no"
+    {
+      "id": "5013",
+      "type": "album",
+      "title": "V",
+      "releaseDate": "04/feb/2022",
+      "cover": "v.png",
+      "streamingLinks": {
+        "youtube": null,
+        "spotify": null,
+        "youtubeMusic": null,
+        "appleMusic": null,
+        "deezer": null,
+        "local": null
+      },
+      "youtube-cover": "no",
+      "lostTracks": {
+        "18": {
+          "name": "Cafards",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          "mode": "added-mode"
+        },
+        "19": {
+          "name": "Vert de rage",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          "mode": "added-mode"
+        },
+        "20": {
+          "name": "La machine",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          "mode": "added-mode"
+        },
+        "21": {
+          "name": "Chu immunisé",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          "mode": "added-mode"
+        },
+        "22": {
+          "name": "Nouvelle industrie",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          "mode": "added-mode"
+        },
+        "23": {
+          "name": "Paw!",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          "mode": "added-mode"
+        },
+        "24": {
+          "name": "Ce soir",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          "mode": "added-mode"
+        },
+        "25": {
+          "name": "Le Blues du Peon",
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          "mode": "added-mode"
+        }
+      }
+    }
   },
   {
     "id": "5014",
@@ -3472,6 +3537,28 @@
       "local": null
     },
     "youtube-cover": "no"
+    "lostTracks": {
+      "6": {
+        "name": "Résidus",
+        "url": "https://www.youtube.com/watch?v=hgTe8uiDTAc",
+        "mode": "replace-mode"
+      },
+      "18": {
+        "name": "PTSD",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "mode": "added-mode"
+      }
+      "19": {
+        "name": "VICTOIRE",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "mode": "added-mode"
+      }
+      "20": {
+        "name": "DEMON",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "mode": "added-mode"
+      }
+    }
   },
   {
     "id": "5016",
@@ -3619,6 +3706,7 @@
   }
 
 ]
+
 
 
 
