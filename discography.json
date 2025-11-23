@@ -3471,49 +3471,49 @@
                 "name": "Cafards",
                 "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                 "mode": "added-mode",
-                "cover": "vv1.png"
+                "cover": "vv1.jpg"
             },
             "19": {
                 "name": "Vert de rage",
                 "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                 "mode": "added-mode",
-                "cover": "vv1.png"
+                "cover": "vv1.jpg"
             },
             "20": {
                 "name": "La machine",
                 "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                 "mode": "added-mode",
-                "cover": "vv2.png"
+                "cover": "vv2.jpg"
             },
             "21": {
                 "name": "Chu immunisé",
                 "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                 "mode": "added-mode",
-                "cover": "vv2.png"
+                "cover": "vv2.jpg"
             },
             "22": {
                 "name": "Nouvelle industrie",
                 "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                 "mode": "added-mode",
-                "cover": "vv3.png"
+                "cover": "vv3.jpg"
             },
             "23": {
                 "name": "Paw!",
                 "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                 "mode": "added-mode",
-                "cover": "vv3.png"
+                "cover": "vv3.jpg"
             },
             "24": {
                 "name": "Ce soir",
                 "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                 "mode": "added-mode",
-                "cover": "vv4.png"
+                "cover": "vv4.jpg"
             },
             "25": {
                 "name": "Le Blues du Peon",
                 "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                 "mode": "added-mode",
-                "cover": "vv4.png"
+                "cover": "vv4.jpg"
             }
         }
     },
@@ -3668,6 +3668,7 @@
         "youtube-cover": "yes"
     }
 ]
+
 
 
 
