@@ -3458,7 +3458,7 @@
         "releaseDate": "04/feb/2022",
         "cover": "v.png",
         "streamingLinks": {
-            "youtube": null,
+            "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_mzxiPxw1VZvWSuqrcU_R7z1SFdYz0H_mo",
             "spotify": null,
             "youtubeMusic": null,
             "appleMusic": null,
@@ -3668,6 +3668,7 @@
         "youtube-cover": "yes"
     }
 ]
+
 
 
 
