@@ -3381,21 +3381,25 @@
                 "name": "Casimir",
                 "url": "https://www.youtube.com/watch?v=hgTe8uiDTAc",
                 "mode": "added-mode"
+                "cover": "casimir.png"
             },
             "18": {
                 "name": "Doli",
                 "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                 "mode": "added-mode"
+                "cover": "doli.png"
             },
             "19": {
                 "name": "Persuadé",
                 "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                 "mode": "added-mode"
+                "cover": "persuade.png"
             },
             "20": {
                 "name": "Gringo envoie un mess",
                 "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                 "mode": "added-mode"
+                "cover": "gringo.png"
             }
         }
     },
@@ -3467,41 +3471,49 @@
                 "name": "Cafards",
                 "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                 "mode": "added-mode"
+                "cover": "vv1.png"
             },
             "19": {
                 "name": "Vert de rage",
                 "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                 "mode": "added-mode"
+                "cover": "vv1.png"
             },
             "20": {
                 "name": "La machine",
                 "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                 "mode": "added-mode"
+                "cover": "vv2.png"
             },
             "21": {
                 "name": "Chu immunisé",
                 "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                 "mode": "added-mode"
+                "cover": "vv2.png"
             },
             "22": {
                 "name": "Nouvelle industrie",
                 "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                 "mode": "added-mode"
+                "cover": "vv3.png"
             },
             "23": {
                 "name": "Paw!",
                 "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                 "mode": "added-mode"
+                "cover": "vv3.png"
             },
             "24": {
                 "name": "Ce soir",
                 "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                 "mode": "added-mode"
+                "cover": "vv4.png"
             },
             "25": {
                 "name": "Le Blues du Peon",
                 "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
                 "mode": "added-mode"
+                "cover": "vv4.png"
             }
         }
     },
@@ -3656,6 +3668,7 @@
         "youtube-cover": "yes"
     }
 ]
+
 
 
 
