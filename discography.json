@@ -3264,7 +3264,7 @@
         "releaseDate": "27/oct/2014",
         "cover": "nqnt.png",
         "streamingLinks": {
-            "youtube": null,
+            "youtube": "https://www.youtube.com/playlist?list=OLAK5uy_l16KBY5cQ_gu2-5DgxAecoic0uj0UdLkw",
             "spotify": null,
             "youtubeMusic": null,
             "appleMusic": null,
@@ -3436,7 +3436,7 @@
         "releaseDate": "03/sep/2021",
         "cover": "echelon-vol-1.png",
         "streamingLinks": {
-            "youtube": null,
+            "youtube": "https://www.youtube.com/playlist?list=PLBaa4R072iDT5baPGJgAfTpptQQ1FPSSl",
             "spotify": null,
             "youtubeMusic": null,
             "appleMusic": null,
@@ -3570,23 +3570,26 @@
             "6": {
                 "name": "Résidus",
                 "url": "https://www.youtube.com/watch?v=hgTe8uiDTAc",
-                "mode": "replace-mode"
+                "mode": "replace-mode",
+                "local": null
             },
             "18": {
                 "name": "PTSD",
                 "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-                "mode": "added-mode"
+                "mode": "added-mode",
+                "local": "PTSD.mp3"
             },
             "19": {
                 "name": "VICTOIRE",
                 "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-                "mode": "added-mode"
+                "mode": "added-mode",
+                "local": "Victoire.mp3"
             },
             "20": {
-            "name": "DEMON",
-            "url": null,
-            "mode": "added-mode",
-            "local": "Démon.mp3"
+                "name": "DEMON",
+                "url": null,
+                "mode": "added-mode",
+                "local": "Démon.mp3"
             }
         }
     },
