@@ -3215,7 +3215,7 @@
         },
         "youtube-cover": "yes"
     },
-    {
+       {
         "id": "5001",
         "type": "album",
         "title": "NQNTMQMQMB",
@@ -3229,12 +3229,12 @@
             "deezer": null,
             "local": null
         },
-        "youtube-cover": "no"
+        "youtube-cover": "no",
         "lostTracks": {
             "22-42": {
-              "mode": "delete-mode"
+                "mode": "delete-mode"
             }
-        },
+        }
     },
     {
         "id": "5002",
@@ -3250,12 +3250,12 @@
             "deezer": null,
             "local": null
         },
-        "youtube-cover": "no"
+        "youtube-cover": "no",
         "lostTracks": {
             "1-21": {
-              "mode": "delete-mode"
+                "mode": "delete-mode"
             }
-        },
+        }
     },
     {
         "id": "5003",
@@ -3694,6 +3694,7 @@
     "youtube-cover": "yes"
     }
 ]
+
 
 
 
