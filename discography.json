@@ -651,7 +651,7 @@
             "youtubeMusic": null,
             "appleMusic": null,
             "deezer": null,
-            "local": null
+            "local": "Ce Soir.mp3"
         },
         "youtube-cover": "yes"
     },
@@ -667,7 +667,7 @@
             "youtubeMusic": null,
             "appleMusic": null,
             "deezer": null,
-            "local": null
+            "local": "Nouvelle Industrie.mp3"
         },
         "youtube-cover": "yes"
     },
@@ -683,7 +683,7 @@
             "youtubeMusic": null,
             "appleMusic": null,
             "deezer": null,
-            "local": null
+            "local": "La Machine.mp3"
         },
         "youtube-cover": "yes"
     },
@@ -3478,52 +3478,60 @@
         "youtube-cover": "no",
         "lostTracks": {
             "18": {
-                "name": "Cafards",
-                "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-                "mode": "added-mode",
-                "cover": "vv1.jpg"
+            "name": "Cafards",
+            "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "mode": "added-mode",
+            "cover": "vv1.jpg",
+            "local": "Cafards.mp3"
             },
             "19": {
-                "name": "Vert de rage",
-                "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-                "mode": "added-mode",
-                "cover": "vv1.jpg"
+            "name": "Vert de rage",
+            "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "mode": "added-mode",
+            "cover": "vv1.jpg",
+            "local": "Vert de Rage.mp3"
             },
             "20": {
-                "name": "La machine",
-                "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-                "mode": "added-mode",
-                "cover": "vv2.jpg"
+            "name": "La machine",
+            "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "mode": "added-mode",
+            "cover": "vv2.jpg",
+            "local": "La Machine.mp3"
             },
             "21": {
-                "name": "Chu immunisé",
-                "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-                "mode": "added-mode",
-                "cover": "vv2.jpg"
+            "name": "Chu immunisé",
+            "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "mode": "added-mode",
+            "cover": "vv2.jpg",
+            "local": "Chu Immunisé.mp3"
             },
             "22": {
-                "name": "Nouvelle industrie",
-                "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-                "mode": "added-mode",
-                "cover": "vv3.jpg"
+            "name": "Nouvelle industrie",
+            "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "mode": "added-mode",
+            "cover": "vv3.jpg",
+            "local": "Nouvelle Industrie.mp3"
             },
             "23": {
-                "name": "Paw!",
-                "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-                "mode": "added-mode",
-                "cover": "vv3.jpg"
+            "name": "Paw!",
+            "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "mode": "added-mode",
+            "cover": "vv3.jpg",
+            "local": "Paw!.mp3"
             },
             "24": {
-                "name": "Ce soir",
-                "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-                "mode": "added-mode",
-                "cover": "vv4.jpg"
+            "name": "Ce soir",
+            "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "mode": "added-mode",
+            "cover": "vv4.jpg",
+            "local": "Ce Soir.mp3"
             },
             "25": {
-                "name": "Le Blues du Peon",
-                "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-                "mode": "added-mode",
-                "cover": "vv4.jpg"
+            "name": "Le Blues du Peon",
+            "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "mode": "added-mode",
+            "cover": "vv4.jpg",
+            "local": "Le Blues du Péon.mp3"
             }
         }
     },
@@ -3575,9 +3583,10 @@
                 "mode": "added-mode"
             },
             "20": {
-                "name": "DEMON",
-                "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-                "mode": "added-mode"
+            "name": "DEMON",
+            "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "mode": "added-mode",
+            "local": "Démon.mp3"
             }
         }
     },
