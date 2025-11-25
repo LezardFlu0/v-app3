@@ -3230,6 +3230,11 @@
             "local": null
         },
         "youtube-cover": "no"
+        "lostTracks": {
+            "22-42": {
+              "mode": "delete-mode"
+            }
+        }
     },
     {
         "id": "5002",
@@ -3246,6 +3251,11 @@
             "local": null
         },
         "youtube-cover": "no"
+        "lostTracks": {
+            "1-21": {
+              "mode": "delete-mode"
+            }
+        }
     },
     {
         "id": "5003",
@@ -3684,6 +3694,7 @@
     "youtube-cover": "yes"
     }
 ]
+
 
 
 
