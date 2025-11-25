@@ -3666,8 +3666,25 @@
             "local": null
         },
         "youtube-cover": "yes"
+    },
+    {
+    "id": "5025",
+    "type": "single-hors-album",
+    "title": "ABYSSES",
+    "releaseDate": "23/nov/2025",
+    "githubCover": "ABYSSES_VFTUIT6h4mw.jpg",
+    "streamingLinks": {
+        "youtube": "https://www.youtube.com/watch?v=VFTUIT6h4mw",
+        "spotify": null,
+        "youtubeMusic": null,
+        "appleMusic": null,
+        "deezer": null,
+        "local": null
+    },
+    "youtube-cover": "yes"
     }
 ]
+
 
 
 
